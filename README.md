@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a **frontend-focused developer** with a pinch of **backend experience** to spice things up.  
+I enjoy crafting **responsive UIs**, exploring new **web technologies**, and building smooth **user experiences** from end to end.
+
 <!--
 **MTBC-CC-JS45/MTBC-CC-JS45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
